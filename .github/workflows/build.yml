@@ -37,7 +37,7 @@ jobs:
       uses: softprops/action-gh-release@v1
       with:
         files: |
-          ${{github.workspace}}/build/Release/ACCheat.dll
-          ${{github.workspace}}/build/Release/Injector.exe
+          build/Release/ACCheat.dll
+          build/Release/Injector.exe
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
