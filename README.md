@@ -86,4 +86,4 @@ AssaultCubeCheat/
 
 ## 📜 License
 
-This project is provided as-is for research and learning purposes. Use at your own risk.
+This project is provided as-is for research and learning purposes.
